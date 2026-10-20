@@ -1,4 +1,4 @@
-[![Banner](https://github.com/Bednyakov/build-your-own-x/blob/main/softoved.png)](https://t.me/softoved)
+[![Banner](https://github.com/Bednyakov/build-your-own-x/blob/master/softoved.png)](https://t.me/softoved)
 
 [English version](README.en.md)
 
