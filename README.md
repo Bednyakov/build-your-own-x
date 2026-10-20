@@ -1,4 +1,4 @@
-[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
+[![Banner](https://github.com/Bednyakov/build-your-own-x/blob/main/softoved.png)](https://t.me/softoved)
 
 [English version](README.en.md)
 
